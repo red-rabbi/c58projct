@@ -1,0 +1,36 @@
+#hobbie1 {
+border-radius: 100%;
+width: 200px;
+}
+body {
+  background-image: linear-gradient( red,orange,yellow,green,blue,indigo,violet);
+text-align: center;
+font-family: Lucida Handwriting;
+}
+#hobbie2 {
+border-radius: 100%;
+width: 200px;
+}
+#hobbie3 {
+border-radius: 100%;
+width: 200px;
+}
+#polio {
+font-size: 30px;
+padding-left: 70px;
+}
+.link {
+    float: left;
+    color: firebrick;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: lucida handwriting;
+    font-size: 20px;
+list-style: none;
+}
+
+.link:hover{
+    background-color: dodgerblue;
+}
